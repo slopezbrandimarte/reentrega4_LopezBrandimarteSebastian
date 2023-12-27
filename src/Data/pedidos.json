@@ -1,0 +1,42 @@
+[
+    {
+            "id": "1",
+            "categoria": "senasa",
+            "exportador": "Iberconsa",
+            "identificacion": "3575-a-003574",
+            "buque": "As Stine",
+            "vencimiento": "02-01-2024",
+            "completado": false,
+            "fechaSolicitado": "27-12-2023"
+    },
+    {
+            "id": "2",
+            "categoria": "rancho",
+            "exportador": "Aluar",
+            "identificacion": "23047ER02003435B",
+            "buque": "Victoria p",
+            "vencimiento": "27-12-2023",
+            "completado": true,
+            "fechaSolicitado": "26-12-2023"
+    },
+    {
+            "id": "3",
+            "categoria": "cancelacion",
+            "exportador": "Cabo Virgenes",
+            "identificacion": "23047IC81001315C",
+            "buque": "As Stine",
+            "vencimiento": "04-01-2024",
+            "completado": false,
+            "fechaSolicitado": "28-12-2023"
+    },
+    {
+            "id": "4",
+            "categoria": "Post-Embarque",
+            "exportador": "Frigorifico Trelew",
+            "identificacion": "23047EC01003546L",
+            "buque": "Terrestre",
+            "vencimiento": "30-12-2023",
+            "completado": true,
+            "fechaSolicitado": "25-12-2023"
+    }
+]
